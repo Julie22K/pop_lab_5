@@ -1,0 +1,4 @@
+﻿  pop_lab_5.cpp
+C:\Users\Dell\source\repos\pop_lab5\pop_lab_5\pop_lab_5.cpp(65,9): warning C4068: unknown pragma 'omp_set_dynamic'
+C:\Users\Dell\source\repos\pop_lab5\pop_lab_5\pop_lab_5.cpp(82,9): warning C4068: unknown pragma 'omp_set_dynamic'
+  pop_lab_5.vcxproj -> C:\Users\Dell\source\repos\pop_lab5\x64\Debug\pop_lab_5.exe
